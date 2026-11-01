@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Sanchit Tewari</h1>
-<h3 align="left">A passionate full stack developer from India</h3>
+<h1 align="left">Hi 👋, I'm Sanchit</h1>
+<h3 align="left">Software Developer | Building scalable applications and exploring distributed systems</h3>
 
 <p align="left">
 </p>
